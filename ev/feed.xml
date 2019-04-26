@@ -5,12 +5,12 @@
     <description>Data Science and Development</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Apr 2019 14:39:04 -0300</pubDate>
-    <lastBuildDate>Fri, 26 Apr 2019 14:39:04 -0300</lastBuildDate>
+    <pubDate>Fri, 26 Apr 2019 14:46:58 -0300</pubDate>
+    <lastBuildDate>Fri, 26 Apr 2019 14:46:58 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>EDA - Análise Exploratória de Dados com python e pandas</title>
+        <title>EDA - Análise Exploratória de Dados com Python e Pandas</title>
         <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
 
 &lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
