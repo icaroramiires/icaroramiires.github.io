@@ -5,13 +5,16 @@
     <description>Data Science and Development</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Apr 2019 14:46:58 -0300</pubDate>
-    <lastBuildDate>Fri, 26 Apr 2019 14:46:58 -0300</lastBuildDate>
+    <pubDate>Fri, 26 Apr 2019 15:05:30 -0300</pubDate>
+    <lastBuildDate>Fri, 26 Apr 2019 15:05:30 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>EDA - Análise Exploratória de Dados com Python e Pandas</title>
-        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+        <description>&lt;p&gt;Em Construção
+&amp;lt;!–There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable 
+with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do 
+with Markdown!&lt;/p&gt;
 
 &lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
 
@@ -128,6 +131,7 @@
 &lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
 
 &lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;–&amp;gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Apr 2019 00:00:00 -0300</pubDate>
         <link>http://localhost:4000/eda-analise-exploratoria-de-dados/</link>
