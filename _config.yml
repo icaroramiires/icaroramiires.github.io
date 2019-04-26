@@ -4,7 +4,7 @@ title: "Icaro Ramires"
 description: "Data Science and Development"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /
+baseurl: ''
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -13,10 +13,10 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  icaro:
     name: Icaro Ramires
     display_name: Icaro
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 30d8741e7883eec9746827a0bf46d06a
     email: icarobsi@hotmail.com
     web: https://icaroramiires.github.io
     twitter: https://twitter.com/_icaroramiires
