@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-templates-not-found-template-js","path":"/404.html","webpackCompilationHash":"f52ceeb66ad1f29d18ea","result":{"pageContext":{"isCreatedByStatefulCreatePages":false}}}
+{
+    "componentChunkName": "component---node-modules-wkocjan-gatsby-theme-intro-src-pages-404-js",
+    "path": "/404.html",
+    "result": {"pageContext":{}},
+    "staticQueryHashes": ["2903201533"]}
